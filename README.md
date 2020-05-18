@@ -5,6 +5,6 @@ Note:
 
 1) Use your own channel Id and Write API Key in the program.
 
-2)Connect DHT11 at Digital pin D5 of NodeMCU.
+2) Connect DHT11 at Digital pin D5 of NodeMCU.
 
 To know more you can watch out this Video: https://youtu.be/g1mk-UGgWGU
